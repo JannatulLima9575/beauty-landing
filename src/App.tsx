@@ -1,11 +1,7 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
 import Featured from "./components/Featured";
-import SpecialOffer from "./components/SpecialOffer";
-import AntiAging from "./components/AntiAging";
-import Premium from "./components/Premium";
-import Newsletter from "./components/Newsletter";
-import Footer from "./components/Footer";
+import Hero from "./components/Hero";
+import Navbar from "./components/Navbar";
+
 
 const App = () => {
   return (
