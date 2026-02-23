@@ -1,6 +1,8 @@
 import Featured from "./components/Featured";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import Newsletter from "./components/Newsletter";
+import SpecialOffer from "./components/SpecialOffer";
 
 
 const App = () => {
